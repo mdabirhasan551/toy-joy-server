@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Spider-Man Action Figure",
+    "banner": "https://i.ibb.co/n6fBhsH/banner-4.jpg",
+    "id": "M001",
+    "price": 19.99,
+    "available_quantity": 50,
+    "category_name": "Marvel",
+    "details": "This Spider-Man action figure is a must-have for any fan of the iconic superhero. Standing at 12 inches tall, this figure features incredible detail, capturing the essence of Spider-Man's classic costume with vibrant red and blue colors, web patterns, and the distinctive spider emblem on the chest. The figure boasts multiple points of articulation, allowing for dynamic posing and action-packed play. Whether it's web-swinging through the city or taking down villains, this Spider-Man action figure is ready for any adventure. Made from durable, high-quality plastic, it can withstand rough play while maintaining its detailed appearance. This toy is perfect for collectors and young fans alike, encouraging imaginative play and storytelling. With this Spider-Man action figure, kids can recreate their favorite scenes from the comics and movies, or invent their own superhero adventures. It’s not just a toy; it’s a gateway to endless fun and creativity. Additionally, the figure comes with a stand for display purposes, making it a great addition to any Marvel collection. Spider-Man fans will appreciate the attention to detail and the craftsmanship that brings their favorite web-slinger to life.",
+    "image": "https://i.ibb.co/BNm9fgk/spiderman-action.jpg"
+  },
+  {
+    "name": "Iron Man Helmet",
+    "banner": "https://i.ibb.co/8b56dDP/banner-1.jpg",
+    "id": "M002",
+    "price": 49.99,
+    "available_quantity": 20,
+    "category_name": "Marvel",
+    "details": "The Iron Man Helmet is an impressive replica designed for fans of Tony Stark and his alter ego, Iron Man. This wearable helmet features a highly detailed design that mirrors the iconic look from the Marvel movies, complete with metallic paint finish and authentic markings. The helmet includes electronic features such as light-up eyes and sound effects that mimic Iron Man's suit, providing an immersive experience. It’s adjustable to fit most head sizes, ensuring comfort for both children and adults. The faceplate is removable, allowing for versatile display options or interactive play. Made from durable materials, this helmet is built to last, making it a perfect piece for cosplay, Halloween costumes, or as a standout item in a Marvel memorabilia collection. Whether you're a dedicated Marvel enthusiast or just a fan of Iron Man, this helmet offers a unique way to engage with the character's legacy. With this Iron Man Helmet, you can feel like a superhero and take part in epic adventures. It’s more than just a toy; it’s a piece of the Marvel universe that brings the magic of Tony Stark's genius and heroism into your home.",
+    "image": "https://i.ibb.co/gDHypN8/ironman-helmet.jpg"
+  },
+  {
+    "name": "Batman Action Figure",
+    "banner": "https://i.ibb.co/7Kvsgbv/banner-2.jpg",
+    "id": "D001",
+    "price": 17.99,
+    "available_quantity": 40,
+    "category_name": "DC",
+    "details": "The Batman Action Figure is a staple for any DC Comics fan. This 10-inch figure captures the dark, brooding essence of Gotham City's greatest detective. With meticulous attention to detail, the figure features Batman's iconic costume, including the cape, cowl, and utility belt, all rendered in high-quality plastic. The articulation points in the arms, legs, and head allow for a wide range of dynamic poses, perfect for recreating classic scenes from the comics, TV shows, or movies. This action figure is designed to withstand rigorous play, making it suitable for young fans who want to take Batman on endless crime-fighting adventures. For collectors, the figure stands as a finely crafted piece that brings the Dark Knight to life. Batman's accessories, including a Batarang and grappling hook, add to the figure's playability and authenticity. Whether perched on a shelf or in the midst of an action scene, this Batman figure is a striking representation of one of DC's most beloved heroes. It's a perfect gift for any fan, providing hours of imaginative play and a tangible connection to the world of Batman. Embrace the hero within with this dynamic action figure.",
+    "image": "https://i.ibb.co/vdZVRYN/batman-action.jpg"
+  },
+  {
+    "name": "Wonder Woman Shield",
+    "banner": "https://i.ibb.co/HdHxFbq/banner-3.jpg",
+    "id": "D002",
+    "price": 29.99,
+    "available_quantity": 15,
+    "category_name": "DC",
+    "details": "The Wonder Woman Shield is a remarkable replica designed for fans of the Amazonian warrior. This shield is inspired by the one used by Wonder Woman in the blockbuster movies, featuring intricate designs and a realistic metallic finish. The shield measures 24 inches in diameter, making it suitable for both display and cosplay. Made from high-quality, durable materials, it can withstand intense play and rough handling. The shield includes adjustable straps on the back, allowing it to be comfortably worn by children and adults alike. It is perfect for role-playing scenarios, Halloween costumes, or as a standout piece in any DC Comics collection. The detailed craftsmanship captures the essence of Wonder Woman's strength and bravery, making it a must-have for any fan. Whether you're defending justice at a comic-con or displaying it in your home, this Wonder Woman Shield is a testament to the enduring legacy of one of DC's most iconic characters. It’s more than just a toy; it’s a symbol of heroism and empowerment, inspiring fans to embrace their inner warrior.",
+    "image": "https://i.ibb.co/QPX712B/wonder-woman-shield.jpg"
+  },
+  {
+    "name": "Naruto Plush Doll",
+    "banner": "https://i.ibb.co/k4c9b5W/banner-5.webp",
+    "id": "A001",
+    "price": 14.99,
+    "available_quantity": 60,
+    "category_name": "Anime",
+    "details": "The Naruto Plush Doll is a delightful representation of the beloved anime character Naruto Uzumaki. Standing at 12 inches tall, this plush doll is crafted with soft, high-quality materials, making it perfect for cuddling and display. The doll features Naruto in his signature orange jumpsuit, complete with detailed embroidery and accurate facial features that capture his determined and cheerful personality. This plush is not only a great companion for young fans but also a charming collectible for anime enthusiasts of all ages. Its compact size makes it easy to carry around, ensuring Naruto can join in on any adventure. The durable stitching ensures that it can withstand lots of hugs and play. This plush doll is an excellent gift for fans of the Naruto series, providing comfort and a tangible connection to the anime's vibrant world. Whether placed on a bed, a shelf, or taken on the go, the Naruto Plush Doll is sure to bring a smile to any fan’s face. It’s more than just a toy; it’s a piece of the ninja’s journey that fans can hold dear.",
+    "image": "https://i.ibb.co/ynmV7t4/naruto-plush-doll.jpg"
+  },
+  {
+    "name": "Dragon Ball Z Action Set",
+    "banner": "https://i.ibb.co/HH0Z4GR/banner-6.jpg",
+    "id": "A002",
+    "price": 34.99,
+    "available_quantity": 25,
+    "category_name": "Anime",
+    "details": "The Dragon Ball Z Action Set is a fantastic collection for fans of the iconic anime series. This set includes action figures of some of the most beloved characters, such as Goku, Vegeta, and Frieza, each standing at approximately 6 inches tall. The figures are highly detailed, with accurate costumes and facial expressions that capture the essence of each character. With multiple points of articulation, these figures can be posed in various action stances, perfect for recreating epic battles from the show. The set also includes interchangeable hands and accessories, such as energy blasts and swords, adding to the playability and display options. Made from durable materials, these figures are designed to withstand intense play while maintaining their detailed appearance. This action set is ideal for both young fans who want to engage in imaginative play and collectors looking to expand their Dragon Ball Z memorabilia. It’s a perfect gift for any occasion, providing hours of entertainment and a tangible connection to the adventures of Goku and his friends. With this Dragon Ball Z Action Set, fans can bring the excitement of the anime into their own homes, reliving the thrill of the battles and the camaraderie of the characters.",
+    "image": "https://i.ibb.co/kQ9DNkX/dragon-ball-Z-set.jpg"
+  }
+]
