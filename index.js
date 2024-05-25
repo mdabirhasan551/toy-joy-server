@@ -9,9 +9,19 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.send(data);
 });
+
+
 app.get("/blogs", (req, res) => {
   res.send(blogsData);
 });
+
+app.get("/blogs/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedBlog = blogsData.find((b) => b.id == id);
+  res.send(selectedBlog);
+});
+
+
 app.listen(port, () => {
   console.log("server is running at port: ", port);
 });
